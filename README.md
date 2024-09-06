@@ -3,6 +3,7 @@ A 3D-printed, moving theatre light for school events and community productions. 
 
 # Demo
 There is a demo video on this github page that was recorded during our very initial tests. Additionally, a video during the beginning stages of the high power lighting system is also included.
+(Some additional media 😋)[https://drive.google.com/drive/folders/1nxPsaR5K0JRuRdDyx59ukE29vSf4de64?usp=sharing]
 
 ## Contributors
 Rohan Katreddy \([Github](https://github.com/RohanKatreddy), [LinkedIn](https://www.linkedin.com/in/rohan-katreddy-6607a726a/)\)
